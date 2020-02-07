@@ -3,9 +3,8 @@
 PyShips - a Python implementation of the classic BattleShips game.
 
 The main module used to play the game with a GUI is 
-*play_game_gui.py*. *play_test_console.py* is primarily used
-for testing and shouldn't be used to play the game as any
-given version may not run as expected.
+*play_game_gui.py*. *play_test_console.py* is a command line
+version of the game.
 
 # Playing
 
