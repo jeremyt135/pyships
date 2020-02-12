@@ -16,3 +16,7 @@ into the board.
 				space to shoot
 	-	SHIFT: 	rotate currently held ship during placement phase
 	-	ENTER: 	confirm placement of all ships, confirm shot placement
+
+# Dependencies
+
+Pillow, Tkinter
